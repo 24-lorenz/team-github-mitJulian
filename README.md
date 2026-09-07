@@ -4,7 +4,9 @@
 
 Person 1: Raphael Lorenz
 
-Person 2: Julian and yoshi
+Person 2: Julian D 
+
+Person 3: Yoshi (Sehr cooler Typ)
 
 ## Unser Projekt
 
