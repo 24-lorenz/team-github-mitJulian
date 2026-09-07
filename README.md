@@ -11,3 +11,5 @@ Person 2: Julian and yoshi
 Wir möchten gemeinsam ein kleines Projekt entwickeln.
 
 ## Unsere Idee
+
+ Wir Werden eine Krasse PO Note kriegen
